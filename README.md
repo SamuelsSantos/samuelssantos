@@ -1,6 +1,22 @@
 	
 More than doing is trying to do the best, dedicating yourself, trying to overcome each challenge. A fan of technology,
 challenges and open to learning and reinventing himself as often as necessary.
+
+### Contributor
+  
+  - **Life to Remind**  
+   
+   	Arctic Code Vault Contributor
+   	Is a website for career-oriented Personal Strategic Planning.
+   	
+	- **Repository**: [LifeToRemind](https://github.com/eduqg/LifeToRemind)
+  
+  - **DelphiSpec**
+  	
+	DelphiSpec is a library for running automated tests written in plain language. 
+	DelphiSpec was inspired by Cucumber and is using its own implementation of Gherkin.
+	
+   	- **Repository**: [DephiSpec](https://github.com/SamuelsSantos/DelphiSpec)
 	
 ### Experiences
 	
