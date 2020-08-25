@@ -2,7 +2,7 @@
 More than doing is trying to do the best, dedicating yourself, trying to overcome each challenge. A fan of technology,
 challenges and open to learning and reinventing himself as often as necessary.
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelssantos&theme=dark&hide=PlpgSQL,html)](https://github.com/anuraghazra/github-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelsSantos&theme=dark&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contributor
   
